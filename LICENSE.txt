@@ -1,0 +1,31 @@
+Rev. J. Money's XBOX Dev Jukebox
+Terms of Use (Freeware License)
+Copyright (c) 2026 Rev. J. Money. All rights reserved except as granted below.
+
+1. FREE TO USE. You may download, install, and run this application free of
+   charge on Xbox consoles you own that are in Developer Mode, for personal,
+   non-commercial use.
+
+2. SHARING. You may share the original, unmodified sideload package. You may
+   NOT sell it, charge for it, bundle it into a paid product, or repackage or
+   re-brand it as your own.
+
+3. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED. YOU USE IT AT YOUR OWN RISK. THE AUTHOR IS NOT LIABLE FOR
+   ANY DAMAGE, DATA LOSS, OR ISSUES WITH YOUR CONSOLE ARISING FROM ITS USE.
+
+4. THIRD-PARTY COMPONENTS. This application includes third-party software and
+   content distributed under their own licenses (see NOTICE.md): the NVorbis OGG
+   decoder (MIT License) and visualizer superscope code authored by members of
+   the Winamp AVS community. Those components remain the property of, and are
+   governed by the terms of, their respective authors.
+
+5. MUSIC. All bundled audio tracks are original works (c) Rev. J. Money
+   (soundcloud.com/revjmoney), provided for personal listening only. They are
+   NOT licensed for redistribution, remixing, sampling, or commercial use.
+
+6. NO AFFILIATION. This project is not affiliated with, endorsed by, or
+   sponsored by Microsoft / Xbox or Nullsoft / Winamp. Trademarks belong to
+   their respective owners.
+
+By installing or using this application, you agree to these terms.

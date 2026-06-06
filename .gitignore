@@ -1,0 +1,26 @@
+# This repo distributes the app ONLY — never source or signing keys.
+*.pfx
+*.snk
+
+# The sideload zip ships as a GitHub Release asset, not committed to the repo.
+*.zip
+
+# No Unity source / project
+Assets/
+Packages/
+ProjectSettings/
+ProjectSettings.asset
+Library/
+Temp/
+obj/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+
+# No build trees
+UWP/
+Build/
+
+# Templates (the generated README.md is what ships)
+README.template.md
