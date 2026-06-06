@@ -9,7 +9,7 @@ Ships with original music by **Rev. J. Money** ([soundcloud.com/revjmoney](https
 
 ## Download
 
-**[Download v1.0.69.0 — RevJMoneyJukebox-1.0.69.0-sideload.zip](https://github.com/revjmoney/RevJMoneysXBOXDevJukebox/releases/latest/download/RevJMoneyJukebox-1.0.69.0-sideload.zip)**
+**[Download v1.0.71.0 — RevJMoneyJukebox-1.0.71.0-sideload.zip](https://github.com/revjmoney/RevJMoneysXBOXDevJukebox/releases/latest/download/RevJMoneyJukebox-1.0.71.0-sideload.zip)**
 — contains the `.appx`, the signing certificate `.cer`, and the `Microsoft.VCLibs.x64.14.00.appx` dependency.
 (Also on the [Releases page](https://github.com/revjmoney/RevJMoneysXBOXDevJukebox/releases).)
 
@@ -51,7 +51,7 @@ visualizer — superscopes, oscilloscope, and FFT bars — all driven by an Xbox
 | LB / RB | Previous / next track |
 | R3 (right stick) | Remove selected track |
 | L3 (left stick) | Hide / show the HUD (clean full-screen visualizer) |
-| D-pad ←/→ | Switch visualizer mode (oscilloscope / FFT / superscope / starfield / dot-grid) |
+| D-pad ←/→ | Switch visualizer mode (oscilloscope / FFT / superscope / starfield / dot-grid / acid-warp) |
 | Triggers | Seek ±10s |
 | View | Options (mode, preset, playlist, colors, trails, blur, color FX, dynamic-movement warp) |
 | Menu | File browser (USB + Music library) |
@@ -59,7 +59,7 @@ visualizer — superscopes, oscilloscope, and FFT bars — all driven by an Xbox
 ## Sideload instructions
 
 1. Put your Xbox into **Developer Mode** and sign in with a user on the console.
-2. Unzip `RevJMoneyJukebox-1.0.69.0-sideload.zip`.
+2. Unzip `RevJMoneyJukebox-1.0.71.0-sideload.zip`.
 3. Open the Xbox **Device Portal**: `https://<your-xbox-ip>:11443` (accept the cert warning).
 4. **My games & apps → Add** → select the `.appx`, add the **VCLibs x64** dependency and the `.cer`
    certificate → Install.
